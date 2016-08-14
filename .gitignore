@@ -1,0 +1,3 @@
+cache/logs http/logs redis/logs
+**/logs/
+cache/logs/access.log cache/logs/error.log http/logs/access.log http/logs/error.log http/logs/nginx.pid redis/logs/access.log redis/logs/error.log redis/logs/nginx.pid
